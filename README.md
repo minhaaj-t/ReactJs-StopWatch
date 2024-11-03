@@ -1,3 +1,55 @@
+# React JS Stopwatch
+
+**React JS Stopwatch** is a simple and interactive stopwatch application built with React. This project showcases the ability to create a functional timer with start, stop, and reset features, all while demonstrating best practices in React component design.
+
+## Features
+
+- **Start/Stop Functionality**: Start and stop the timer with a single button.
+- **Reset Functionality**: Reset the timer to zero at any time.
+- **Lap Timer**: Record lap times and display them.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **CSS**: For styling the application.
+- **React Hooks**: Using `useState` and `useEffect` for managing state and side effects.
+
+## Getting Started
+
+To get a local copy of the project up and running, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/react-js-stopwatch.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd react-js-stopwatch
+Install dependencies (if any):
+
+bash
+Copy code
+npm install
+Run the application:
+
+bash
+Copy code
+npm start
+Access the application at http://localhost:3000.
+
+Usage
+Click the Start button to begin timing.
+Click the Stop button to pause the timer.
+Click the Reset button to return the timer to zero.
+Use the Lap button to record lap times.
+Contributing
+Contributions are welcome! If you have suggestions or improvements, please open issues or submit pull requests.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
